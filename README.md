@@ -1,4 +1,5 @@
 minimax-algoritms-AI
+
 black jack game. using minimax algorithm to win the computer
 
 This is a multi agent game, The black Jack game.
